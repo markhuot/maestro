@@ -1,8 +1,8 @@
 {
   "name": "maestro",
-  "version": "1.2.66",
+  "version": "1.2.69",
   "bin": {
-    "server": "./server.js"
+    "maestro": "./server.js"
   },
   "dependencies": {
     "css-loader": "^0.26.1",
